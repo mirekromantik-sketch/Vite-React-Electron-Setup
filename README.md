@@ -35,8 +35,8 @@ vite+react+electron/
 
 ### 1️⃣ Klon repoet
 ```bash
-git clone https://github.com/<ditt-brukernavn>/<repo-navn>.git
-cd <repo-navn>
+git clone https://github.com/mirekromantik-sketch/Vite-React-Electron-Setup.git
+cd Vite-React-Electron-Setup
 ```
 
 ### 2️⃣ Installer avhengigheter
